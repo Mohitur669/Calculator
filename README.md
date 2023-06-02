@@ -2,7 +2,7 @@
 
 It is a simple calculator built using HTML, CSS, and JavaScript which is a responsive web app. It has
 simple mathematical operations like Addition, Subtraction, Multiplication, Division, and Percentage. <br>
-To view the live site, Click [here](https://mohitur-calculator.netlify.app/).
+**To view the live site, Click** [**here**](https://mohitur-calculator.netlify.app/).
 
 # About me
 I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University, Bhubaneswar. Talking about my previous educational background, I did my BSC in Mathematics at Malda College.
