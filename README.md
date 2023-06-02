@@ -1,12 +1,12 @@
-# Programming in Java
+# Calculator
 
-This is a simple calculator created with HTML, CSS, JavaScript.
+It is a simple calculator built using HTML, CSS, and JavaScript which is a responsive web app. It has
+simple mathematical operations like Addition, Subtraction, Multiplication, Division, and Percentage.
 
-## Myself
+# About me
+I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University, Bhubaneswar. Talking about my previous educational background, I did my BSC in Mathematics at Malda College.
 
-Hi, I am Mohd Mohitur Rahaman, a 1st-year student in the MCA Department at Kalinga Institute of Industrial Technology (KIIT). 
-- [Mohitur](https://github.com/mohitur669)
+- [Mohitur](https://linktr.ee/mohitur)
 
-## Feedback
-
-If you have any feedback, please reach out to mohitur98@gmail.com and For any changes to my code feel free to create a pull request.
+# Feedback
+If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
